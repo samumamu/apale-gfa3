@@ -1,0 +1,49 @@
+#whole
+{
+    background-color: #6e2727;
+    color: #F0E9E9;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    width: 1000px;
+    border-radius: 10px;
+    padding: 10px;
+}
+body
+{
+    background-image: url("room.png");
+    background-size: cover;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1
+{
+    font-size: 20px;
+}
+h2
+{
+    text-align: center;
+    border-bottom: 1px dashed black;
+}
+#room1
+{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    width: 200px;
+}
+#room2
+{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    width: 200px;
+}
+#room3
+{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    width: 200px;
+}
